@@ -164,4 +164,4 @@ for i in range(6):
 for i in range(5):
     root.grid_columnconfigure(i, weight=1)
 
-root.mainloop()
+root.mainloop() 
